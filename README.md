@@ -3,7 +3,10 @@ This is content converted from Markdown!
 
 Here's a git command sample:
 
-```git init
-   git add .
-   git push
+```
+
+   * git init
+   * git add .
+   * git push
+   
 ```
